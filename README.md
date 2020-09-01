@@ -22,7 +22,9 @@ Computer Organization
 1. [Processor bus: 32 bits versus 64 bits](https://www.youtube.com/watch?v=Wu2A4fpFzgs&t=1s)
 1. [Memory and Storage](https://www.pbs.org/video/memory-storage-crash-course-computer-science-19-veum7z/)
 1. [Operative systems](https://www.pbs.org/video/operating-systems-crash-course-computer-science-18-wwc9c2/)
-
+1. [Boolean Logic](https://www.pbs.org/video/boolean-logic-logic-gates-crash-course-computer-science-nobmpt/)
+1. [Binary and Hexadecimal number representation](https://www.khanacademy.org/computing/code-org/computers-and-the-internet#how-computers-work)
+1. [Logic gates]()
 
 * Topic 3: Networks (9 hours)
 
