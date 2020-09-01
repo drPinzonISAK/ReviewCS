@@ -9,7 +9,11 @@ The topics that must be studied, including some practical work, are:
 
 * Topic 1: System fundamentals (20 hours)
 
+[Link to the review notes #1](https://docs.google.com/document/d/1davsS5s6w4Gz3mCFDHJZwY53Eken14AIiKcCDPrY0Ig/edit?usp=sharing)
+[Link to the review notes #2](https://docs.google.com/document/d/19DpTMQbbKNdv6U3X0Lhh9nazSbR_3UrHHjw_eNA5Dvs/edit?usp=sharing)
+
 ![](Topic%201.png)
+
 
 * Topic 2: Computer organization (6 hours)
 
