@@ -1,6 +1,6 @@
 ![](Welcome%20to%20CS.png)
 
-## UWC ISAK  
+## UWC ISAK IB CS REVIEW 
 
 ## 2. The Syllabus
 
@@ -13,9 +13,6 @@ The topics that must be studied, including some practical work, are:
 
 * Topic 2: Computer organization (6 hours)
 
-![](Topic%202.png)
-
-Computer Organization
 1. [RAM Explained - Random Access Memory](https://www.youtube.com/watch?v=PVad0c2cljo&t=464s)
 1. [CPU Cache Explained - What is Cache Memory?](https://www.youtube.com/watch?v=yi0FhRqDJfo)
 1. [Motherboards explained](https://www.youtube.com/watch?v=b2pd3Y6aBag&t=4s)
@@ -25,6 +22,8 @@ Computer Organization
 1. [Boolean Logic](https://www.pbs.org/video/boolean-logic-logic-gates-crash-course-computer-science-nobmpt/)
 1. [Binary and Hexadecimal number representation](https://www.khanacademy.org/computing/code-org/computers-and-the-internet#how-computers-work)
 1. [Logic gates]()
+
+![](Topic%202.png)
 
 * Topic 3: Networks (9 hours)
 
