@@ -36,9 +36,12 @@ The topics that must be studied, including some practical work, are:
 
 ![](Topic3.png)
 
-Learning resource: [Wiki IB CS HL](https://computersciencewiki.org/index.php)
 
 * Topic 4: Computational thinking, problem-solving and programming (45 hours)
+
+1. Learning resource: [Wiki IB CS HL](https://computersciencewiki.org/index.php)
+1. [Link to the review notes](https://docs.google.com/document/d/1Rzv8VOjCRXgxRwAbCfO4Y1JA6FgDRNXoLcEJw3mQM3g/edit?usp=sharing)
+
 
 ![](Topic%204.png)
 
