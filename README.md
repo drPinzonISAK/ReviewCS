@@ -17,6 +17,8 @@ The topics that must be studied, including some practical work, are:
 
 * Topic 2: Computer organization (6 hours)
 
+1. [Link to the review notes](https://docs.google.com/document/d/16ZTj6Sz8Av3vaKwGk12HYuuz8LbhGmRnWeuu5m2stzU/edit?usp=sharing)
+
 1. [RAM Explained - Random Access Memory](https://www.youtube.com/watch?v=PVad0c2cljo&t=464s)
 1. [CPU Cache Explained - What is Cache Memory?](https://www.youtube.com/watch?v=yi0FhRqDJfo)
 1. [Motherboards explained](https://www.youtube.com/watch?v=b2pd3Y6aBag&t=4s)
